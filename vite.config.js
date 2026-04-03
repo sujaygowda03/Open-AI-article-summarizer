@@ -6,7 +6,3 @@ export default defineConfig({
   plugins: [react()],
 })
 
-export default defineConfig({
-  base: '/Open-AI-article-summarizer/',
-  plugins: [react()],
-})
